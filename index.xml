@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<microblog>
+<bloggers>
     <post>
         <author>Ayaric Stanley</author>
         <content>Hello world! This is my first post.</content>
+        <status>true</status>
         <timestamp>2024-03-27T08:00:00</timestamp>
     </post>
     <post>
         <author>Salifu Tanko Ababio</author>
         <content>Excited to join MicroBlogX!</content>
+        <status>false</status>
         <timestamp>2024-03-27T08:15:00</timestamp>
     </post>
     <post>
         <author>Mohammed Salim Mohammed</author>
         <content>Any recommendations for good books?</content>
+        <status>true</status>
         <timestamp>2024-03-27T09:30:00</timestamp>
     </post>
     <post>
         <author>Abukari Abdul Wahab</author>
         <content>Any recommendations for good books?</content>
+        <status>true</status>
         <timestamp>2024-03-27T09:30:00</timestamp>
     </post>
-</microblog>
+</bloggers>

@@ -1,0 +1,6 @@
+1. Shani Iddi (052141350070)
+2. Ayaric Stanley (052141350039)
+3. Mohammed Salim Mohammed (052141360102)
+4. Abukari Abdul Wahab (052141350043)
+5. Salifu Tanko Ababio (052141350044)
+6. Abdul Razak Ahmed Izzudeen (052041360005)

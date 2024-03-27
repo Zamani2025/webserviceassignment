@@ -4,3 +4,7 @@
 4. Abukari Abdul Wahab (052141350043)
 5. Salifu Tanko Ababio (052141350044)
 6. Abdul Razak Ahmed Izzudeen (052041360005)
+7. Owusu Sampson (052041360051)
+8. Baffour Awuah Godbless(052141350075)
+9. Ahmed Abdallah(052141350063)
+10. Akowuah Clifford Osei(052141350015)

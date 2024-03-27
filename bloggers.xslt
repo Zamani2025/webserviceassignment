@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
-<xsl:template match="/">
+<xsl:template match="/bloggers">
   <html>
   <body>
-    <h2>MicroBlogX Posts</h2>
+    <h2>Bloggers Posts</h2>
     <ul>
-      <xsl:for-each select="/microblog/post">
+      <xsl:for-each select="/bloggers/post">
         <li>
           <b>Author:</b> <xsl:value-of select="author"/> <br/>
           <b>Content:</b> <xsl:value-of select="content"/> <br/>
+          <b>Status:</b> <xsl:value-of select="status"/> <br/>
           <b>Timestamp:</b> <xsl:value-of select="timestamp"/> <br/>
         </li>
       </xsl:for-each>

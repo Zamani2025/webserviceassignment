@@ -8,7 +8,7 @@
     <ul>
       <xsl:for-each select="/bloggers/post">
         <li>
-          <b>Author:</b> <xsl:value-of select="author"/> <br/>
+          <b>User:</b> <xsl:value-of select="user"/> <br/>
           <b>Content:</b> <xsl:value-of select="content"/> <br/>
           <b>Status:</b> <xsl:value-of select="status"/> <br/>
           <b>Timestamp:</b> <xsl:value-of select="timestamp"/> <br/>
